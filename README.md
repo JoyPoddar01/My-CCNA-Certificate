@@ -1,0 +1,1 @@
+In CCNA, I learned the core concepts of computer networking, including IP addressing, subnetting, VLANs, routing, and switching configuration. I gained hands-on experience using Cisco Packet Tracer to build and troubleshoot real-world network setups. I also developed a foundational understanding of network security, access control, and enterprise network operations.
